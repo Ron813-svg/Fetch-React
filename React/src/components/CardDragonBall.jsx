@@ -65,7 +65,7 @@ const DragonBallCard = ({ character }) => {
                 color: "#63B3ED",
               }}
             >
-              Race:
+              Raza:
             </span>{" "}
             {character.race}
           </p>
@@ -76,7 +76,7 @@ const DragonBallCard = ({ character }) => {
                 color: "#63B3ED",
               }}
             >
-              Gender:
+              Genero:
             </span>{" "}
             {character.gender}
           </p>
@@ -98,7 +98,7 @@ const DragonBallCard = ({ character }) => {
                 color: "#63B3ED",
               }}
             >
-              Max Ki:
+              Ki Maximo:
             </span>{" "}
             {character.maxKi}
           </p>
@@ -109,7 +109,7 @@ const DragonBallCard = ({ character }) => {
                 color: "#63B3ED",
               }}
             >
-              Affiliation:
+              Afiliación:
             </span>{" "}
             {character.affiliation}
           </p>

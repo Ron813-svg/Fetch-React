@@ -23,7 +23,7 @@ const Nav = () => {
                         color: "#E2E8F0",
                     }}
                 >
-                    MyApp
+                    Api + React
                 </div>
                 <ul className="flex space-x-4">
                     <li>
@@ -53,7 +53,7 @@ const Nav = () => {
                             onMouseEnter={(e) => (e.currentTarget.style.color = "#63B3ED")}
                             onMouseLeave={(e) => (e.currentTarget.style.color = "#A0AEC0")}
                         >
-                            About
+                            Dragon Ball
                         </a>
                     </li>
                     <li>
@@ -68,7 +68,7 @@ const Nav = () => {
                             onMouseEnter={(e) => (e.currentTarget.style.color = "#63B3ED")}
                             onMouseLeave={(e) => (e.currentTarget.style.color = "#A0AEC0")}
                         >
-                            Contact
+                            Rick and Morty
                         </a>
                     </li>
                 </ul>
